@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aiken692
+- 👋 Hi, I’m @Aiken692 [Walter Ruganzu ]
 - 👀 I’m interested in Software development
 - 🌱 I’m currently a .Net Developer(C#) & also learning Java,  more about the backend and testing of softwares.
 - 💞️ I’m looking to collaborate on a variety of projects that help the society.
